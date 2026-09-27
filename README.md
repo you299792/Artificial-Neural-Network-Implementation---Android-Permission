@@ -15,11 +15,17 @@ This project trains and compares four ANN architectures of decreasing depth to s
 
 ## Requirements
 python >= 3.9
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 tensorflow >= 2.x
 
 
