@@ -11,7 +11,6 @@ This project trains and compares four ANN architectures of decreasing depth to s
 | File | Description |
 |---|---|
 | `Android_Permission.csv` | Raw Kaggle dataset (apps as rows, permissions as binary columns, plus metadata). |
-| `ANN_Android_Permission_Solution.ipynb` | Primary implementation — procedural, step-by-step notebook following the lab workflow. |
 | `ANN_Android_Permission_Alternate.ipynb` | Independent implementation — object-oriented data pipeline + Keras Functional API, config/loop-driven model comparison. |
 
 ## Requirements
