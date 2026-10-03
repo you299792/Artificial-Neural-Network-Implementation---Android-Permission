@@ -1,4 +1,4 @@
-# Android Permission Classification — ANN Lab (Week 6-7)
+# Android Permission Classification — ANN Lab
 
 Artificial Neural Network implementation for classifying Android apps as **Benign (0)** or **Malware (1)** based on their requested permissions, using the [Kaggle Android Permission Dataset](https://www.kaggle.com/datasets/saurabhshahane/android-permission-dataset).
 
